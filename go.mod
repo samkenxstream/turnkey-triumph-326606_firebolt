@@ -8,7 +8,7 @@ require (
 	github.com/confluentinc/confluent-kafka-go v1.8.2
 	github.com/digitalocean/captainslog v0.0.0-20190610170928-cd175de8a6e2
 	github.com/olivere/elastic/v7 v7.0.15
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/client_model v0.2.0
 	github.com/samuel/go-zookeeper v0.0.0-20180130194729-c4fab1ac1bec
 	github.com/sirupsen/logrus v1.8.1
